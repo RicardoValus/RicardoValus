@@ -15,7 +15,7 @@ ricardo@guarapuava:~$ whoami
 <div align="center">
 
 [![Portfólio](https://img.shields.io/badge/portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FF4D5E)](https://portfolio-gray-beta-11.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF4D5E)](https://linkedin.com/in/ricardo-medlo-valus-a35429215)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF4D5E&cacheSeconds=43200)](https://linkedin.com/in/ricardo-medlo-valus-a35429215)
 [![Email](https://img.shields.io/badge/email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4D5E)](mailto:ricardovalus.dev@gmail.com)
 
 </div>
@@ -25,6 +25,31 @@ ricardo@guarapuava:~$ whoami
 ### 🧠 Sobre
 
 Crio interfaces web com **Angular** e apps híbridos com **Ionic/Capacitor**, com APIs em **PHP** (Laminas/Apigility) e banco em MySQL/MariaDB. Hoje desenvolvo no **ChatSeguro**, produto de comunicação corporativa que reúne chat, chamadas e ServiceDesk. Antes disso passei pela ACT Tecnologia, mexendo com servidores, redes e infra, isso me ajuda a pensar no sistema inteiro, não só na tela.
+
+- 💻 2+ anos com **Angular/TypeScript**, hoje como Pleno
+- 🎓 Pós-graduando em Desenvolvimento Web com ênfase em Angular (540h), bacharel em Análise e Desenvolvimento de Sistemas
+- 📱 Mobile com **Ionic + Capacitor**, back-end em **PHP** quando o front precisa de API própria
+- 🔧 Antes do front passei pela infra (servidores, redes, Active Directory), ajuda a enxergar o sistema do banco até a tela
+- 🚀 Sempre com 2 ou 3 projetos pessoais rodando em paralelo (abaixo)
+
+<br>
+
+### 💼 Experiência: ChatSeguro (Pleno)
+
+Produto de comunicação corporativa para desktop, web e celular (chat, chamadas e ServiceDesk), com auditoria de mensagens e conformidade com a LGPD. Nessa squad já ajudei a entregar:
+
+- Chamadas de áudio e vídeo 1:1 e, depois, em grupo com escolha da tela compartilhada
+- Tela inicial com resumo de atividades e lista de sessões ativas
+- Anexos na mensagem, mensagens fixadas/favoritas, formatação de texto e tema escuro
+- Interface em **Angular + Material + TypeScript**, apps em **Ionic/Capacitor**, API em **PHP**
+
+<br>
+
+### 📌 Projetos em destaque
+
+- **Rango**: sistema de pedidos, caixa, relatórios e entregadores, no ar em produção para um restaurante real (Ionic, Angular, Firebase)
+- **Resenha**: chat e chamadas em grupo estilo Discord, tudo em P2P (Angular, Electron, WebRTC)
+- **Todo App**: monorepo com Angular 22 no front e API em Mezzio (PHP 8.4), MariaDB e Nginx no back
 
 <br>
 
@@ -36,7 +61,7 @@ Crio interfaces web com **Angular** e apps híbridos com **Ionic/Capacitor**, co
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=FF4D5E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=FF4D5E)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=FF4D5E)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=FF4D5E)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=FF4D5E&cacheSeconds=43200)
 ![Electron](https://img.shields.io/badge/Electron-0D1117?style=flat-square&logo=electron&logoColor=FF4D5E)
 
 **Mobile**
@@ -71,13 +96,13 @@ Crio interfaces web com **Angular** e apps híbridos com **Ionic/Capacitor**, co
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoValus&hide_border=true&background=0D1117&ring=FF4D5E&fire=FF4D5E&currStreakLabel=FF4D5E" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoValus&hide_border=true&background=0D1117&stroke=0D1117&ring=FF4D5E&fire=FF4D5E&currStreakNum=FF4D5E&sideNums=C9D1D9&currStreakLabel=FF4D5E&sideLabels=8B949E&dates=6E7681" />
 </div>
 
 <br>
 
 ### 🚧 Agora
 
-- Construindo o **Resenha**, chat + chamadas em grupo estilo Discord (Angular, Electron, WebRTC P2P)
 - Evoluindo o **Garimpo**, rastreador Android de preços de hardware (Ionic, Capacitor, SQLite)
+- Construindo o **Grana**, controle financeiro offline com exportação em PDF/CSV (Ionic, Angular, Capacitor)
 - Aprofundando Angular na pós-graduação e no curso.dev, do Filipe Deschamps
