@@ -91,8 +91,8 @@ Produto de comunicação corporativa para desktop, web e celular (chat, chamadas
 ### 📊 GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RicardoValus&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800&bg_color=0D1117&title_color=FF4D5E&icon_color=FF4D5E&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValus&layout=compact&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF4D5E&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats-orpin-three-66.vercel.app/api?username=RicardoValus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&bg_color=0D1117&title_color=FF4D5E&icon_color=FF4D5E&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats-orpin-three-66.vercel.app/api/top-langs/?username=RicardoValus&layout=compact&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF4D5E&text_color=C9D1D9" />
 </div>
 
 <div align="center">
