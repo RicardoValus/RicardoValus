@@ -24,7 +24,7 @@ ricardo@guarapuava:~$ whoami
 
 ### 🧠 Sobre
 
-Crio interfaces web com **Angular** e apps híbridos com **Ionic/Capacitor**, com APIs em **PHP** (Laminas/Apigility) e banco em MySQL/MariaDB. Hoje desenvolvo no **ChatSeguro**, produto de comunicação corporativa que reúne chat, chamadas e ServiceDesk. Antes disso passei pela ACT Tecnologia, mexendo com servidores, redes e infra — isso me ajuda a pensar no sistema inteiro, não só na tela.
+Crio interfaces web com **Angular** e apps híbridos com **Ionic/Capacitor**, com APIs em **PHP** (Laminas/Apigility) e banco em MySQL/MariaDB. Hoje desenvolvo no **ChatSeguro**, produto de comunicação corporativa que reúne chat, chamadas e ServiceDesk. Antes disso passei pela ACT Tecnologia, mexendo com servidores, redes e infra, isso me ajuda a pensar no sistema inteiro, não só na tela.
 
 <br>
 
@@ -78,7 +78,6 @@ Crio interfaces web com **Angular** e apps híbridos com **Ionic/Capacitor**, co
 
 ### 🚧 Agora
 
-- Construindo o **Resenha** — chat + chamadas em grupo estilo Discord (Angular, Electron, WebRTC P2P)
-- Evoluindo o **Garimpo** — rastreador Android de preços de hardware (Ionic, Capacitor, SQLite)
+- Construindo o **Resenha**, chat + chamadas em grupo estilo Discord (Angular, Electron, WebRTC P2P)
+- Evoluindo o **Garimpo**, rastreador Android de preços de hardware (Ionic, Capacitor, SQLite)
 - Aprofundando Angular na pós-graduação e no curso.dev, do Filipe Deschamps
-
